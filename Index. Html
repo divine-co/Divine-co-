@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Divine Co. - Flyer & Status Design</title>
+  <style>
+    body {
+      background: #0a0a0a;
+      color: white;
+      font-family: Arial;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #FFD700;
+    }
+    img {
+      width: 90%;
+      max-width: 400px;
+      border-radius: 10px;
+      margin: 20px 0;
+    }
+    a {
+      background: #25D366;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      border-radius: 8px;
+      display: inline-block;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Design Flyers & WhatsApp Status</h1>
+  <img src="flyer.jpg" alt="My flyer design">
+  <p>For Businesses, Churches, Events & Students</p>
+  <p><b>Only ₦3,000</b> - Delivered in 24hrs</p>
+  <a href="https://wa.me/2348028920894">Order on WhatsApp</a>
+</body>
+</html>
